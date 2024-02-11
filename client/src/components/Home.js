@@ -5,5 +5,5 @@ function Home({ user }) {
     return <h1>Please Login or Sign Up</h1>;
   }
 }
-
+ 
 export default Home;

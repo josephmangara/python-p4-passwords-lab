@@ -4,7 +4,7 @@ import SignUp from "./SignUp";
 import Login from "./Login";
 import NavBar from "./NavBar";
 import Home from "./Home";
-
+ 
 function App() {
   const [user, setUser] = useState(null);
 
